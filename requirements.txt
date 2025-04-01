@@ -1,1 +1,6 @@
-Flask==3.0.3
+flask
+flask-wtf
+wtforms
+werkzeug
+flask-cors
+gunicorn
